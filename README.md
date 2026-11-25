@@ -4,12 +4,12 @@
 This console python project simulates a pizza maker robot taking users' orders.
 
 
-This project requires only an installed Python and the modules that can be found in requirements.txt
+This project requires only an installed Python and the modules that can be found in `requirements.txt`
 </details>
 
 Этот консольный проект на Python симулирует робота-пиццемейкера, который принимает заказы пользователей
 
-Этот проект требует только установленный Python и необходимые модули из requirements.txt
+Этот проект требует только установленный Python и необходимые модули из `requirements.txt`, скачивание автоматическое
 
 ## В последней версии (v1.3.1) были изменения:
 - Добавлена проверка пароля по хешу
