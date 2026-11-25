@@ -2,7 +2,7 @@
 <details>
 <summary>English version</summary>
 This console python project simulates a pizza maker robot taking users' orders.
-</br>
+---
 This project requires only an installed Python and the modules that can be found in requirements.txt
 </details>
 
@@ -16,7 +16,7 @@ Roadmap:
 - [x] Возможность сделать заказ (v1-beta)
 - [x] Панель администратора (v1-beta)
 - [x] Улучшенное логирование (v1.0.0 - v1.3.0)
-- ✅ Текущая версия: v1.3.0
+✅ Текущая версия: v1.3.0
 - [ ] Многофайловость
 - [ ] Отдельный файл для меню
 - [ ] Использование асинхронности и декораторов
